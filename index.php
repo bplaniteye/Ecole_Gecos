@@ -3,7 +3,7 @@
 <html>
 
 <head>
-  <title>Gestion des inscription</title>
+  <title>Gestion des inscriptions</title>
   <meta charset="utf-8"/>
    <link rel="stylesheet" type="text/css" href="styleIndex.css">
 </head>

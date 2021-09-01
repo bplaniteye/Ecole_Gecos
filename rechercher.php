@@ -32,7 +32,7 @@
 	
 	<marquee> 
 		<h1 class="titre">RECHERCHER UN ETUDIANT </h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-		<h1 class="titre">AFFICHER SES DONNEES PERSONNELLE</h1>
+		<h1 class="titre">AFFICHER SES DONNEES PERSONNELLES</h1>
 	</marquee>
 	<center> <a href="index.php">ACCUEIL</a><br/></ center>
 	<hr class="trait"> <br/><br/><br/>
