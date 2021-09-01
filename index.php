@@ -23,20 +23,20 @@
 
 
                  <div class="modifier"><div><a href="modifier.php"><img src="images/modifier.png" width="220" height="200" alt="Logo Modifier"></a></div>
-                 <h3>MODIFIER</h3> </div>
+                 <h3><a href="modifier.php">MODIFIER</a></h3> </div>
 
                  <div class="supprimer"><div><a href="supprimer.php"><img src="images/supprimer.png" width="256" height="256" alt="Logo Supprimer"></a></div>
-                 <h3>SUPPRIMER</h3> </div>
+                 <h3><a href="supprimer.php">SUPPRIMER</a></h3> </div>
 
                  <div class="afficher"><div><a href="liste.php"><img src="images/afficher.png" width="220" height="220" alt="Logo Afficher"></a></div>
-                 <h3>AFFICHER</h3> </div>
+                 <h3><a href="liste.php">AFFICHER</a></h3> </div>
                </div>
 
              </section>
             </center>
               <hr style="width: 900px; height: 10px" >
                 <footer>
-                    <h2>CHOISIR GECOS FORMATION C'EST CONTRUIT SON AVENIRE</h2>
+                    <h2>CHOISIR GECOS FORMATION C'EST CONTRUIRE SON AVENIR</h2>
                 </footer>
     </div>
 </body>
