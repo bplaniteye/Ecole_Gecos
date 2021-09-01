@@ -31,6 +31,9 @@
                  <div class="afficher"><div><a href="liste.php"><img src="images/afficher.png" width="220" height="220" alt="Logo Afficher"></a></div>
                  <h3><a href="liste.php">AFFICHER</a></h3> </div>
                </div>
+               <div class="logo"><img src="images/gecos.png" width="200" height="200" alt="Logo de Gecos"></div>
+               <h3><a href="contact.html ">NOUS CONTACTER</a></h3> </div>
+        </header>
 
              </section>
             </center>
